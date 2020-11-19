@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP St. Cloud State University
+title: OWASP St. Cloud State University-Student Chapter
 tags: example-tag
 level: 4
 
